@@ -1,5 +1,5 @@
 # Python Lab 1 Assignment 
-18/08/2024
+12/08/2024
 # 1. Variable and Identifier Practice
 
 * Aim 
