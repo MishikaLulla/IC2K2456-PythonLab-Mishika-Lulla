@@ -15,28 +15,29 @@ The Lab1 folder contains programs demonstrating
 - String manipulation
 - Escape sequences
 
-# python lab 2
-NUMBER PATTERN
-ARMSTRONG NUMBER
-FIBONACCI SERIES
-MENU DRIVEN APPLICATION
-NUMBER GUESSING GAME
-PALINDROME
-PATTERN PRINTING
-PERFECT NUMBER
-PRIME NUMBER
-RHOMBUS PATTERN
-SQUARE PATTERN
-TRIANGLE
-TRIANGLE IN MIDDLE
-TRIANGLE PATTERN
+# PYTHON LAB 2
+
+The Lab2 folder contains programs demonstrating
+
+* Armstrong number
+* Prime number
+* Perfect number
+* Palindrome
+* Fibonacci series
+* Pattern printing
+* Menu driven application
+* Number guessing game
+* Number patterns
+* Triangle patterns
+* Square pattern
+* Rhombus pattern
 
 # python lab 3
-BUTTERFLY PATTERN
-HOLLOW DIAMOND
+* Butterfly pattern
+* Hollow diamond pattern
 
 # python lab 4
-STAR PATTERN
-MATRIX OPERATIONS
+* Star pattern
+* Matrix operations
 
 # python lab 5
