@@ -1,19 +1,19 @@
 ## Student Information
-Name: Mishika Lulla 
-Roll Number: IC-2K24-56 
-Course: MCA
-This repository contains my Python Lab assignments.
+* Name: Mishika Lulla 
+* Roll Number: IC-2K24-56 
+* Course: MCA
+* This repository contains my Python Lab assignments.
 
 
 # python lab 1
 Contents
 The Lab1 folder contains programs demonstrating
-- Variables and data types
-- User input and f-strings
-- Arithmetic operations
-- Celsius to Fahrenheit conversion
-- String manipulation
-- Escape sequences
+* Variables and data types
+* User input and f-strings
+* Arithmetic operations
+* Celsius to Fahrenheit conversion
+* String manipulation
+* Escape sequences
 
 # PYTHON LAB 2
 
@@ -41,3 +41,12 @@ The Lab2 folder contains programs demonstrating
 * Matrix operations
 
 # python lab 5
+* concept check
+* trace the logic
+* atm simulation
+* student grade calculator
+* reverse guessing game
+* guessing game with hints and scoring
+* combined application
+* analysis
+* sample inputs and outputs
