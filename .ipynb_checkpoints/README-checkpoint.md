@@ -5,7 +5,7 @@
 * This repository contains my Python Lab assignments.
 
 
-# python lab 1
+# python lab 1 - 12/08/2026
 Contents
 The Lab1 folder contains programs demonstrating
 * Variables and data types
@@ -15,7 +15,7 @@ The Lab1 folder contains programs demonstrating
 * String manipulation
 * Escape sequences
 
-# PYTHON LAB 2
+# PYTHON LAB 2 - 18/08/2026
 
 The Lab2 folder contains programs demonstrating
 
@@ -32,15 +32,15 @@ The Lab2 folder contains programs demonstrating
 * Square pattern
 * Rhombus pattern
 
-# python lab 3
+# python lab 3- 24/08/2026 
 * Butterfly pattern
 * Hollow diamond pattern
 
-# python lab 4
+# python lab 4 - 25/08/2026
 * Star pattern
 * Matrix operations
 
-# python lab 5
+# python lab 5 - 31/8/2026
 * concept check
 * trace the logic
 * atm simulation
@@ -50,3 +50,6 @@ The Lab2 folder contains programs demonstrating
 * combined application
 * analysis
 * sample inputs and outputs
+
+# python lab 7 -8/9/2026
+* introduction to time complexity and space complexity using Big-O notation
