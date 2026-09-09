@@ -1,5 +1,20 @@
 # Python Lab 1 Assignment 
 12/08/2024
+
+this lab contains basic python programs that help in understanding the fundamentals of python programming
+the programs cover simple calculations variables strings input output and basic operations
+
+* aim
+the aim of this lab is to understand the basic syntax and working of python programs
+the programs also help in understanding how to take input from the user and display the required output
+
+* what i learned
+i learned how to write basic python programs
+i also learned how variables are used to store values and how different operations can be performed using python
+i understood how input and output statements work and how strings and numbers can be handled in a program
+
+
+
 # 1. Variable and Identifier Practice
 
 * Aim 
