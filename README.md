@@ -54,3 +54,46 @@ The Lab2 folder contains programs demonstrating
 
 # python lab 7 -8/9/2026
 * introduction to time complexity and space complexity using Big-O notation
+
+## my directory looks like
+```cmd
+IC2K2456-PythonLab-Mishika-Lulla
+│
+├── README.md
+├── .gitignore
+│
+├── Lab_01
+│   ├── README.md
+│   ├──files
+│  
+│
+├── Lab_02
+│   ├── README.md
+│   ├─ files
+│   
+│
+├── Lab_03
+│   ├── README.md
+│   ├── files
+│   
+│
+├── Lab_04
+│   ├── README.md
+│   ├── files
+│   
+│
+├── Lab_05
+│   ├── README.md
+│   ├── files
+│   
+│
+├── Lab_06
+│   ├── README.md
+│   ├──files
+│   
+│
+└── Lab_07
+    ├── README.md
+    ├── files
+    
+```
