@@ -2,7 +2,8 @@
 * Name: Mishika Lulla 
 * Roll Number: IC-2K24-56 
 * Course: MCA
-* This repository contains my Python Lab assignments.
+* this repository contains my python laboratory work for semester 5
+  the work is divided into different labs and each lab contains the python programs along with their outputs
 
 
 # python lab 1 - 12/08/2026
