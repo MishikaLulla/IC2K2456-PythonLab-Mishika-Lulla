@@ -55,6 +55,13 @@ The Lab2 folder contains programs demonstrating
 # python lab 7 -8/9/2026
 * introduction to time complexity and space complexity using Big-O notation
 
+1 introduction
+2 what i learned
+3 programs covered
+4 important concepts
+5 conclusion
+
+
 ## my directory looks like
 ```cmd
 IC2K2456-PythonLab-Mishika-Lulla
